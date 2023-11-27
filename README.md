@@ -1,5 +1,5 @@
 # ikyih
-
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
  <div>
             <table width="100%" height="100%">
                 <tr>
@@ -15,4 +15,4 @@
                 </tr>
             </table>
         </div>
-        <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+        
