@@ -1,7 +1,7 @@
 # ikyih
-<audio controls autoplay>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
+<figure>
+  <figcaption>Listen to the T-Rex:</figcaption>
+  <audio controls src="/media/cc0-audio/t-rex-roar.mp3">
+    <a href="/media/cc0-audio/t-rex-roar.mp3"> Download audio </a>
+  </audio>
+</figure>
